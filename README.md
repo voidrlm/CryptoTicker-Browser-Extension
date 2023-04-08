@@ -19,7 +19,7 @@ Overall, a crypto ticker browser extension is a convenient,light and easy-to-use
 4)Select and upload the extracted folder.
 
 ## View Preview 
-https://imgur.com/a/xWda0zz
+https://imgur.com/a/T2BXZat
 
 A simple and lightweight browser extension that displays the current prices of cryptocurrencies in your preferred currency.
 
